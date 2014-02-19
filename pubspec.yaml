@@ -1,0 +1,6 @@
+name: dart-lab-hello-01
+description: A simple hello app
+dependencies:
+  browser: any
+  http_server: any
+  path: any
