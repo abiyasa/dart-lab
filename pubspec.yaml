@@ -1,4 +1,4 @@
-name: dart-lab-hello-01
+name: dartlab_hello01
 description: A simple hello app
 dependencies:
   browser: any
