@@ -1,4 +1,5 @@
-name: dartlab_hello01
-description: A simple hello app
+name: dartlab
+description: Playground for testing dart lang
 dependencies:
   browser: any
+  stagexl: any
